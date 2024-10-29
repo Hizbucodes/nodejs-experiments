@@ -1,0 +1,14 @@
+Application Programmming is a set of rules and mechanisms by which one application communicates with another in a json or xml format 
+
+ 01) Components of Request 
+ 1) Base Address 
+ 2) Route 
+ 3) Method [GET, POST, PUT, DELETE, PATCH, OPTIONS] 
+ 4) Data 
+ 5) Headers 
+
+ 02) Components of Response 
+ 1) Data 
+ 2) Headers 
+ 3) Status Code 
+ 
